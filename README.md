@@ -8,5 +8,3 @@ Vector do some specific tasks like:
 4: Wikipedia Automation
 5: Wishing you (This is the most important part of Vector and I am kidding you right now)
 6: Email Automation (Hard Coded)
-
-Note: I am working on real AI part of this project. You will find that project in this github only. And I am not kidding you this time (😂)
